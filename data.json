@@ -1,0 +1,12 @@
+{
+    "book": {
+        "title": "Desing and development of an SGBD application",
+	"author": "Wadie Mendja",
+	"pages": 165,
+	"chapters": [
+		"Chapter 1: Introduction to data bases",
+		"Chapter 2: Database Management System",
+		"Chapter 3: Why Web?"
+	]
+    }
+}
