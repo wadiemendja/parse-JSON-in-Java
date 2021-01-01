@@ -1,2 +1,2 @@
 # parse-JSON-in-Java
-How to parse JSON in JAVA
+JSON parser in JAVA using org.json library
